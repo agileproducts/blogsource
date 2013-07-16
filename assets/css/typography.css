@@ -1,0 +1,114 @@
+body {
+    font-family: Helvetica,Arial,"Lucida Grande",Verdana,sans-serif;
+    font-size: 87.5%;
+    line-height: 1.5;
+}
+
+html > body {
+    /*font-size: 14px;*/
+}
+
+strong {
+	font-weight:bold;
+}
+
+em {
+	font-style:italic;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #111111;
+    font-family: Helvetica,Arial,"Lucida Grande",Verdana,sans-serif;
+}
+h1 {
+    font-size: 2.5em;
+}
+h2 {
+    font-size: 2em;
+	line-height: 1;
+}
+h3 {
+    font-size: 1.5em;
+    line-height: 1;
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+}
+h4 {
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.25;
+}
+h5 {
+    font-size: 1em;
+    font-weight: bold;
+}
+h6 {
+    font-size: 1em;
+}
+p {
+    margin: 0 0 1.5em;
+    text-align: justify;
+}
+
+a {
+	color: #947769;	
+	text-decoration:none;
+}
+
+h1, h2, h3, h4 {
+	color: #f26522;
+}
+
+h1 a, h2 a, h3 a, h4 a {
+	color: #f26522;
+	text-decoration:none;
+}
+
+h2#strapline {
+	font-size:1.3em;
+	color:#FFF;
+	margin-top:-12px;
+}
+
+#sidebar h2 {
+	font-size:1.2em;
+	font-variant:small-caps;
+}
+
+#footer h2 {
+	font-size:1.5em;
+}
+
+.homepage_block_header h2 a {
+	color: #373737;
+}
+
+.meta {
+	color: #999;
+}
+
+.meta a {
+	text-decoration:underline;
+}
+
+.summary {
+	font-style:italic;
+	margin-bottom:1em;
+}
+
+.homepage_block .summary {
+	font-style:normal;
+	margin-bottom:0;
+}
+
+small,sub,sup {
+	font-size:0.83em;
+}
+
+sup {
+	vertical-align:super;
+}
+
+sub {
+	vertical-align:sub;
+}

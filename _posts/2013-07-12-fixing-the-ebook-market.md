@@ -1,0 +1,20 @@
+---
+layout: posts
+title: Fixing the eBook market
+tags: Publishing Business
+---
+
+*Publishers need to match the quality of Amazon's offering if they're to challenge their dominance of the eBook market, and will find that a superior product is a more effective way to fight piracy than restrictive DRM*
+
+There's been much [interesting comment](http://econ.st/12G0Xwg) in the press this week about the recent [court ruling against Apple](http://bit.ly/12G1bn3) for 'price fixing' of eBooks in collusion with major publishers. Amazon sell eBooks via a wholesale model which allows them to sell books to customers at below cost, building market share with ultra-low prices. Apple use an agency model whereby the publishers set the retail price and Apple take a fixed cut of the proceeds. Publishers have been signing exclusive deals with Apple that prevented Amazon from heavy discounting, and as a result eBook prices have risen significantly. The publishers' chief motive probably isn't higher revenue in the short-term so much as the strategic objective of preventing Amazon from owning the market and then being ultimately able to dictate their future.  
+
+However, Amazon didn't get to where they are today solely through financial bullying. They're succeeding like nobody else in this business because they offer a great product. The various types of Kindle are all a joy to use. The shopping experience is first class, and the prices are low. And while you are buying a book which is locked in to a proprietary, protected format it doesn't feel like it - Amazon are big enough and stable enough to have defined a standard. 
+
+Compare with some of the less well-known solutions which the likes of major textbook publishers are trying to employ. I was looking at one the other day. A $123 e-textbook, discounted a whopping $6.99 from the print, $50 more than a second-hand hardcopy from eBay. Requires the installation of a particular version of some strange piece of software from a company you've never heard of. Loads of stupid DRM restrictions like being unable to print more than a handful of successive pages. Not the greatest UI in the world. Some whizzy interactive features that excite the authors and editors a lot more than they engage the readers. And if the vendor ever goes out of business it'll all be as much use as a betamax video cassette. I understand the company concerned are making lots of money, but I really don't get it myself. If this is the future, the future sucks.
+
+But then we've been here before. In the late 90s the market for recorded music was blown wide open, initially by illegal mp3 sharing sites such as Napster. The industry responded with the first wave of legal digital sales channels, many of which were fairly terrible, had limited catalogues, restrictive and unreliable DRM, etcetera. Then Apple came along with a fantastic hardware device allied to slick software. They got all the major music publishers into their store, offered products at better value than the physical equivalent (£4 CD singles, where are they now?) and had the muscle to make it the defacto standard. The result was so impressive that it didn't just crush the competition from physical sales, it also fought back effectively against the pirates - proving that quality and convenience can even beat 'free'. Apple's fortunes as a company were transformed.
+
+When you look at the eBook market today, it's pretty clear who has the iPod/iTunes combo and who's selling via MyCokeMusic. Allowing Amazon to own the eBook industry [won't be good for publishers](http://scholarlykitchen.sspnet.org/2013/07/11/a-disastrous-week-for-publishers-authors-and-readers/) and in the long run probably won't be good for authors or readers. But publishers won't secure their future by retreating into substandard DRM ghettos. They need to emulate the quality and convenience of the experience being offered by Amazon, with some level of discount over the print and the added bonus of device independence via adherence to open standards like ePub. And as Apple proved with music, get the product right and you can afford not to worry so much about the pirates. 
+
+
+

@@ -1,0 +1,23 @@
+div#main {
+	float:left;
+	width: 76%;
+	margin-right:4%;
+}
+
+div#sidebar {
+	width: 18%;
+	float:left;
+}
+
+div.sidebar_section_content {
+	padding-left:5px;
+}
+
+ul.taglist li {
+	float:none;
+	margin-right:0;
+}
+
+h1 {
+    font-size: 3em;
+}

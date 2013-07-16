@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+{% include head.html %}
+<body>
+  <div id="page"> 
+	
+	{% include header.html %}   
+    
+    <div id="content">
+	
+      <div id="main">
+	   <div class="post">
+	    <h2>{{ page.title }}</h2>
+	    <p class="meta">{{ page.date | date_to_long_string }}</p>
+        {{ content }}
+        <p class="meta">
+	    {% for tag in page.tags %}
+	      <a href="/past/tags/{{tag}}">{{tag}}</a>
+	    {% endfor %}
+	    </p>
+	   </div>
+      </div>
+
+     {% include sidebar.html %}
+	
+      <div class="spacer"></div>
+	
+    </div>
+
+	{% include footer.html %}
+    
+  
+  </div>
+</body>
+</html>
