@@ -2,6 +2,7 @@
 layout: posts
 title: Ruby and XSLT using Nokogiri
 tags: Ruby XML
+summary: How to apply an XSLT transform using Nokogiri.
 ---
 
 I may be an old-fashioned kind of guy but for certain types of job I still don’t think there’s an easier way to process XML than using a bit of XSLT. When I googled for a solution I initially encountered some pretty outdated stuff which went too deeply into core Ruby XML libraries. But it turns out to be easy.

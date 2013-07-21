@@ -2,6 +2,7 @@
 layout: posts
 title: The Google Analytics API and Ruby
 tags: Ruby Publishing
+summary: Mechanically retrieving data from Google Analytics.
 ---
 
 *Getting data from the Google Analytics API using the Garb gem*

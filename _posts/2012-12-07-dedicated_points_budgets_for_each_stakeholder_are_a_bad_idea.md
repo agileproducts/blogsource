@@ -2,6 +2,7 @@
 layout: posts
 title: Dedicated points budgets for each stakeholder are a bad idea
 tags: Agile Planning
+summary: Having a hypothecated points budget for each stakeholder in a project leads to poor prioritisation and a fragmented delivery.
 ---
 
 *Having a hypothecated points budget for each stakeholder in a project leads to poor prioritisation and a fragmented delivery. Squabbling stakeholders should be convinced with quantitative evidence rather than appeased with salami-slicing, and simply over-ruled if all else fails.*

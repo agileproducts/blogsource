@@ -2,6 +2,7 @@
 layout: posts
 title: A tag-list for my Scanty blog
 tags: Ruby Scanty_blog
+summary: Adding a taglist to the Scanty framework.
 ---
 
 One feature I’ve been missing from Scanty is a tag-list or cloud - for me that’s always an easy way to see what a blog site is about. But it wasn’t too difficult to make one. I defined a helper method in Sinatra like this:

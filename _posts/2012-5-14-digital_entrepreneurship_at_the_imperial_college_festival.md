@@ -2,6 +2,7 @@
 layout: posts
 title: Digital Entrepreneurship at the Imperial College Festival
 tags: Business Products
+summary: Some notes from a Q&A on ‘Digital Entrepreneurship’.
 ---
 
 *The other day I went to an event at Imperial College which featured a Q&A session on the subject of ‘Digital Entrepreneurship’ organised by the Business School. The panel consisted of three web company founders, two were experienced hands while the third was a recent MBA graduate still in the earlier stages of building his business. Here’s what they had to say:*

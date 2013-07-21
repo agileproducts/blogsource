@@ -2,6 +2,7 @@
 layout: posts
 title: Calculating h-indexes using Ruby
 tags: Ruby Publishing
+summary: Calculating citation h-indexes using Ruby.
 ---
 
 *Calculating citation h-indexes using Ruby*

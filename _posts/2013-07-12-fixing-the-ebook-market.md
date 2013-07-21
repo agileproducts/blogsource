@@ -2,9 +2,10 @@
 layout: posts
 title: Fixing the eBook market
 tags: Publishing Business
+summary: Publishers need to match the quality of Amazon's offering if they're to challenge their dominance of the eBook market, and will find that a superior product is a more effective way to fight piracy than restrictive DRM.
 ---
 
-*Publishers need to match the quality of Amazon's offering if they're to challenge their dominance of the eBook market, and will find that a superior product is a more effective way to fight piracy than restrictive DRM*
+*Publishers need to match the quality of Amazon's offering if they're to challenge their dominance of the eBook market, and will find that a superior product is a more effective way to fight piracy than restrictive DRM.*
 
 There's been much [interesting comment](http://econ.st/12G0Xwg) in the press this week about the recent [court ruling against Apple](http://bit.ly/12G1bn3) for 'price fixing' of eBooks in collusion with major publishers. Amazon sell eBooks via a wholesale model which allows them to sell books to customers at below cost, building market share with ultra-low prices. Apple use an agency model whereby the publishers set the retail price and Apple take a fixed cut of the proceeds. Publishers have been signing exclusive deals with Apple that prevented Amazon from heavy discounting, and as a result eBook prices have risen significantly. The publishers' chief motive probably isn't higher revenue in the short-term so much as the strategic objective of preventing Amazon from owning the market and then being ultimately able to dictate their future.  
 

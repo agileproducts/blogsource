@@ -2,6 +2,7 @@
 layout: posts
 title: A Scanty blog
 tags: Ruby Scanty_blog
+summary: Building a blog using a minimal Ruby framework.
 ---
 
 On previous occasions when I’ve played around with blogs I’ve generally used Wordpress, but of late I’ve become a bit tired of it. I can never seem to find a theme I like and waste ages trying to create my own or to reverse engineer some unintelligible off-the-shelf PHP. Since I’m trying to learn Ruby I thought that perhaps this time I should look for a Ruby blogging platform.

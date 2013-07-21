@@ -2,6 +2,7 @@
 layout: posts
 title: What Property Ladder can teach us about product development
 tags: Products Analysis
+summary: Sarah Beeny's TV show contains interesting parallels with the world of software development. 
 ---
 
 For those who are unfamiliar with the format, Property Ladder is a long-running British television programme in which property expert and online dating magnate Sarah Beeny attempts to guide novice developers through the process of renovating a dilapidated home for profit.

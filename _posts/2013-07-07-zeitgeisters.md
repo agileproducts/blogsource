@@ -2,6 +2,7 @@
 layout: posts
 title: Zeitgeisters
 tags: Business Media
+summary: A great little Radio 4 series on cultural entrepreneurs and disruptive web businesses.
 ---
 
 I've been listening to a great little series on R4 called [Zeitgeisters](http://www.bbc.co.uk/programmes/b02zbyxh) which was about “cultural entrepreneurs who are shaping our lives". I thought it could equally well have be billed as being about disruptive online businesses. 
