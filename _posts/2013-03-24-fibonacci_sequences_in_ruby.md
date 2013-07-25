@@ -7,7 +7,7 @@ summary: Generating the Fibonacci sequence and testing if a given number is a Fi
 
 *Generating the Fibonacci sequence and testing if a given number is a Fibonacci number in Ruby. Inspired by my attempt at Project Euler problem 2.*
 
-I’ve been playing around with trying to solve some of the [Project Euler](http://projecteuler.net/) problems in Ruby. [Problem 2](http://projecteuler.net/problem=2)is all about the Fibonacci sequence. I won’t post my exact answer here (plenty of people have) but I did learn some interesting ruby while working on it. 
+I’ve been playing around with trying to solve some of the [Project Euler](http://projecteuler.net/) problems in Ruby. [Problem 2](http://projecteuler.net/problem=2) is all about the Fibonacci sequence. I won’t post my exact answer here (plenty of people have) but I did learn some interesting ruby while working on it. 
 
 The [Fibonacci sequence](http://en.wikipedia.org/wiki/Fibonacci_number) begins:
 
@@ -26,13 +26,13 @@ To start you need to seed the sequence with the first two terms 0 and 1.
 
 Here was my first attempt at a function to generate the first n terms:
 
-<code>
+{% highlight ruby %}
 def fibonacci(n)
   sequence = [0,1]
   (1..n-2).each {|x| sequence.push(sequence[x] + sequence[x-1])}
   sequence
 end
-</code>
+{% endhighlight %}
 
 I used a variation on this to find the fibonacci terms smaller than 4,000,000 and thus solve Euler problem 2. Having solved it I started to look around to see how else it could be done. The ruby doc for the [Enumerator class](http://www.ruby-doc.org/core-1.9.3/Enumerator.html) gives this more elegant example:
 
