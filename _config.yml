@@ -1,4 +1,4 @@
-permalink: /past/:year/:month/:day/:title
+permalink: /past/:year/:i_month/:i_day/:title
 
 analytics_account: UA-31544642-1
 analytics_domain: agileproducts.com
