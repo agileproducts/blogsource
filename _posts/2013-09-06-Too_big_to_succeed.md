@@ -5,6 +5,8 @@ tags: Agile Projects Politics
 summary: The failure of the government’s ambitious Universal Credit system proves the old truth that the way to succeed at very large IT projects is to avoid doing them.
 ---
 
+*The failure of the government’s ambitious Universal Credit system proves the old truth that the way to succeed at very large IT projects is to avoid doing them.*
+
 If a bad workman blames his tools, then I’m not sure what we should make of Work and Pensions Secretary Iain Duncan Smith. He took to the airwaves the other day to lay the blame for the findings of a devastating [National Audit Office  report](http://www.nao.org.uk/report/universal-credit-early-progress/) into the implementation of his flagship Universal Credit at [everyone’s door except his own](http://www.theguardian.com/politics/2013/sep/05/universal-credit-iain-duncan-smith). As a glance at my Twitter feed could tell you I’m not a great fan of IDS or his party, but in this case I’m more interested in the technical aspects of the project and why it has apparently gone so badly wrong.
 
 Politics aside the basic idea behind UC seems sensible enough - take a multiplicity of different overlapping benefits and streamline them into one coherent payment. Of course that implies doing the same to all the backoffice systems that support them - and again, that seems sensible enough, unless you believe that the government should still run on abacuses and bits of paper. 

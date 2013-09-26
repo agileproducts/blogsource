@@ -2,8 +2,10 @@
 layout: posts
 title: Bitcoins - currency or crackpottery?
 tags: Economics Technology
-summary: Bitcoin is an interesting project which shows worrying signs of madness
+summary: Bitcoin is an interesting project which shows worrying signs of madness.
 ---
+
+*Bitcoin is an interesting project which shows worrying signs of madness.*
 
 I've recently been following the story of [Bitcoin](http://bitcoin.org/en/), the alternative electronic currency. I find it interesting, partly because all the stuff about cryptography and the nature of money reminds me of a [Neal Stephenson](http://www.nealstephenson.com/) novel. However, the more I find out about it, the less I like it. 
 
