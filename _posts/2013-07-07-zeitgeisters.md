@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Zeitgeisters
-tags: Business Media
+tags: [Business]
 summary: A great little Radio 4 series on cultural entrepreneurs and disruptive web businesses.
 ---
 

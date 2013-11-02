@@ -5,6 +5,7 @@ div#main {
 }
 
 div#sidebar {
+	display:block;
 	width: 18%;
 	float:left;
 }

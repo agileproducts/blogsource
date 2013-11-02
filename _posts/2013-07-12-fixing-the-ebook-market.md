@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Fixing the eBook market
-tags: Publishing Business
+tags: [Publishing, Business]
 summary: Publishers need to match the quality of Amazon's offering if they're to challenge their dominance of the eBook market, and will find that a superior product is a more effective way to fight piracy than restrictive DRM.
 ---
 

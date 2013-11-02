@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Too big to succeed
-tags: Agile Projects Politics
+tags: [Agile, Project management]
 summary: The failure of the government’s ambitious Universal Credit system proves the old truth that the way to succeed at very large IT projects is to avoid doing them.
 ---
 

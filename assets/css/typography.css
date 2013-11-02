@@ -18,8 +18,16 @@ em {
 
 h1, h2, h3, h4, h5, h6 {
     color: #111111;
-    font-family: Helvetica,Arial,sans-serif;
 }
+
+h1, h2, h3 {
+    font-family: 'Droid Serif', serif;
+}
+
+#header h1 {
+	font-family: Helvetica,Arial,sans-serif;
+}
+
 h1 {
     font-size: 2.5em;
 }
@@ -27,6 +35,11 @@ h2 {
     font-size: 2em;
 	line-height: 1;
 }
+
+h2.pagetitle {
+	margin-bottom:0.5em;
+}
+
 h3 {
     font-size: 1.5em;
     line-height: 1;
@@ -67,12 +80,13 @@ h1 a, h2 a, h3 a, h4 a {
 h2#strapline {
 	font-size:1.3em;
 	color:#FFF;
-	margin-top:-12px;
+	margin-top:-8px;
 }
 
 #sidebar h2 {
 	font-size:1.2em;
 	font-variant:small-caps;
+	font-family: Helvetica,Arial,sans-serif;
 }
 
 #footer h2 {

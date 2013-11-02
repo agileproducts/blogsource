@@ -10,13 +10,15 @@
 	
       <div id="main">
 	   <div class="post">
-	    <h2>{{ page.title }}</h2>
-	    <p class="meta">{{ page.date | date_to_long_string }}</p>
+	    <h2 class="pagetitle">{{ page.title }}</h2>
         {{ content }}
-        <p class="meta">
+	    <p class="meta">
+		{{ page.date | date_to_long_string }}<br/>
+	    <ul class="pills">
 	    {% for tag in page.tags %}
-	      <a href="/past/tags/{{tag}}">{{tag}}</a>
+	      <li>{{tag}}</li>
 	    {% endfor %}
+	    </ul>
 	    </p>
 	   </div>
       </div>

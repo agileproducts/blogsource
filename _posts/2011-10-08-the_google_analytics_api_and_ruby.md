@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: The Google Analytics API and Ruby
-tags: Ruby Publishing
+tags: [Ruby, Analytics]
 summary: Mechanically retrieving data from Google Analytics.
 ---
 

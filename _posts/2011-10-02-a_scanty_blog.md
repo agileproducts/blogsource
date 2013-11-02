@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: A Scanty blog
-tags: Ruby Scanty_blog
+tags: [Ruby, Blogging]
 summary: Building a blog using a minimal Ruby framework.
 ---
 

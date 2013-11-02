@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Digital Entrepreneurship at the Imperial College Festival
-tags: Business Products
+tags: [Business]
 summary: Some notes from a Q&A on ‘Digital Entrepreneurship’.
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Bitcoins - currency or crackpottery?
-tags: Economics Technology
+tags: [Economics, Technology]
 summary: Bitcoin is an interesting project which shows worrying signs of madness.
 ---
 

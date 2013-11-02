@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Fibonacci sequences in Ruby
-tags: Ruby Maths
+tags: [Ruby, Maths]
 summary: Generating the Fibonacci sequence and testing if a given number is a Fibonacci number in Ruby. Inspired by my attempt at Project Euler problem 2.
 ---
 

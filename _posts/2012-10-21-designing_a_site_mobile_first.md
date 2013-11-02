@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Designing a site 'mobile first'
-tags: Mobile Design CSS
+tags: [Mobile, Design]
 summary: Designing the front end of a website by starting with the limitations of a small mobile screen and then enhancing up for larger screens turns out to be a simplifying and liberating experience.
 ---
 

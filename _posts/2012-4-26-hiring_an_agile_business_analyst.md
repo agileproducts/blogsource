@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Interview questions for an Agile Business Analyst
-tags: Agile Teams Recruitment Analysis
+tags: [Teams and recruitment, Business analysis]
 summary: A friend recently asked me if I had any good interview questions for a business analyst position in an agile team, so I thought I’d write about it.
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Microsoft's image problem
-tags: Products Business Branding
+tags: [Business, Marketing]
 summary: Some thoughts on why the Microsoft brand has become tarnished, and what they might do to fix it.
 ---
 

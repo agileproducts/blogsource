@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: A tag-list for my Scanty blog
-tags: Ruby Scanty_blog
+tags: [Ruby, Blogging]
 summary: Adding a taglist to the Scanty framework.
 ---
 

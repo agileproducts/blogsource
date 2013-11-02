@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Moving to Jekyll
-tags: Ruby
+tags: [Blogging, Ruby]
 summary: Moving my blog over from Scanty to Jekyll
 ---
 

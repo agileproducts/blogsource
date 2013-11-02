@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Ruby and XSLT using Nokogiri
-tags: Ruby XML
+tags: [Ruby]
 summary: How to apply an XSLT transform using Nokogiri.
 ---
 

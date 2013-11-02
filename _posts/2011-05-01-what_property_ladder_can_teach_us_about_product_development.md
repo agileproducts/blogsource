@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: What Property Ladder can teach us about product development
-tags: Products Analysis
+tags: [Product development,  Business analysis]
 summary: Sarah Beeny's TV show contains interesting parallels with the world of software development. 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Technical debt starts with the requirements
-tags: Products Analysis User-stories
+tags: [Product development, Business analysis]
 summary: Technical debt often originates in over-complex requirements and the product owners should help the developers by striving for simple solutions and being prepared to refactor or retire features that aren't working.
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: User stories - expressing complex decision logic using truth tables
-tags: User-Stories Agile Analysis
+tags: [Business analysis]
 summary: Truth tables can be a useful way to express complex decision making logic within the description of an agile user story - but use sparingly.
 ---
 
