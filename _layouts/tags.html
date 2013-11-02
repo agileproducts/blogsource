@@ -9,18 +9,19 @@
     <div id="content">
 	
       <div id="main">
-	   <div class="post">
-	    <h2 class="pagetitle">{{ page.title }}</h2>
-        {{ content }}
-	    <p class="meta">
-		{{ page.date | date_to_long_string }}<br/>
 	    <ul class="pills">
-	    {% for tag in page.tags %}
-	      <li><a href="/tags/{{tag}}">{{tag}}</a></li>
-	    {% endfor %}
-	    </ul>
-	    </p>
-	   </div>
+		  <li>tagged: {{ page.title }}</li>
+		</ul>
+        <div class="homepage_block">       	
+          <ul>
+		  {% for post in site.tags[page.tag] %}
+		    <li>
+		      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+		      <div class='summary'>{{ post.summary }}</div>
+		    </li>
+		  {% endfor %}
+		  </ul>
+		</div>
       </div>
 
      {% include sidebar.html %}

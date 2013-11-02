@@ -244,3 +244,7 @@ ul.pills li {
 	color: #FFF;
     border-radius:5px;
 }
+
+ul.pills li a {
+	color: #FFF;	
+}
