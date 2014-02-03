@@ -1,17 +1,15 @@
-<!doctype html>
-<html>
 {% include head.html %}
 <body>
-  <div id="page"> 
-	
-	{% include header.html %}   
-    
-    <div id="content">
-	
-      <div id="main">
+<div class="container">
+		
+  <div class="four columns" id="sidebar">
+   {% include sidebar.html %} 
+  </div>
+
+  <div class="eleven columns" id="content">
 	   <div class="post">
 	    <h2 class="pagetitle">{{ page.title }}</h2>
-        {{ content }}
+       {{ content }}
 	    <p class="meta">
 		{{ page.date | date_to_long_string }}<br/>
 	    <ul class="pills">
@@ -20,19 +18,14 @@
 	    {% endfor %}
 	    </ul>
 	    </p>
-	   </div>
-      </div>
+	   </div>	
+  </div>
 
-     {% include sidebar.html %}
-	
-      <div class="spacer"></div>
-	
-    </div>
+</div>
 
-	{% include footer.html %}
     
   
-  </div>
+
 {% include scripts.html %}
 </body>
 </html>
