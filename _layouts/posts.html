@@ -7,25 +7,27 @@
   </div>
 
   <div class="eleven columns" id="content">
-	   <div class="post">
+    <div class="post">
 	    <h2 class="pagetitle">{{ page.title }}</h2>
+	    <p class="meta">{{ page.date | date_to_long_string }}</p>
        {{ content }}
 	    <p class="meta">
-		{{ page.date | date_to_long_string }}<br/>
+		   <div class="social_shares">
+		     <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-count="none" data-text="{{ page.title }}">Tweet</a>	
+		   </div>
 	    <ul class="pills">
 	    {% for tag in page.tags %}
 	      <li><a href="/tags/{{tag}}">{{tag}}</a></li>
 	    {% endfor %}
 	    </ul>
 	    </p>
-	   </div>	
+    </div>
   </div>
 
 </div>
 
-    
-  
 
 {% include scripts.html %}
+{% include scripts_posts.html %}
 </body>
 </html>

@@ -47,6 +47,10 @@ a, a:visited {
 	text-decoration:none;
 }
 
+div.post {
+	padding-bottom: 2em;
+}
+
 p.meta {
 	font-weight:bold;
 	color: #999;
@@ -93,6 +97,10 @@ div.maths {
 
 img {
     max-width: 100%;
+}
+
+div.social_shares {
+	margin-bottom: 1em;
 }
 
 /* Mobile */
