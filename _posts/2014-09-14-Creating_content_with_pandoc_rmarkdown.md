@@ -19,7 +19,7 @@ pandoc hello.md -o hello.docx
 
 In order to make PDFs you need to install a **LaTeX engine**. I didn't want to install a big clunky TeX editor on my Mac, so I used [BasicTex](http://www.tug.org/mactex/morepackages.html). I had to [modify my $PATH](http://oct.tclh123.com/blog/2013/09/09/use-pandoc-and-latex-on-os-x/) to make it work. 
 
-### R
+### Installing R and RMarkdown
 
 Installing [R itself](http://www.r-project.org/) is quite straightforward. Once you've got it running R has a package management system for installing libraries. I had a slight glitch there in that it seemed to need to open an Xwindow in order for me to manually choose a package mirror, and running OS/X 10.8 meant I needed to [install Xwindowing software first](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/old-Mac-installation-notes.html). 
 
@@ -33,7 +33,51 @@ devtools::install_github("rstudio/rmarkdown")
 
 Ultimately I did all this because I wanted to be all command-liney and not just install the [RStudio application](http://www.rstudio.com/) instead.
 
-### RMarkdown
+### Using RMarkdown
 
-Stuff about using RMarkdown.
+The starting point to authoring content in RMarkdown is to create a file with a .rmd extension. This will basically contain markdown with some yaml config at the top. It's easiest just to illustrate this with an example of a .rmd file and the html and pdf that it turns into. 
+
+{% highlight %}
+---
+title: "RMarkdown - Blog example"
+output:
+  html_document:
+    name: blog_example.html
+  pdf_document:
+    latex_engine: xelatex
+---
+
+Hello, I'm some **markdown**.
+
+## Subtitle
+
+List:
+
+* Item
+* Item
+
+etc.
+{% endhighlight %}
+
+You then convert into the target format like thus, using the R commmand line environment:
+
+{% highlight r %}
+rmarkdown::render("blog_example.rmd", "html_document")
+
+rmarkdown::render("blog_example.rmd", "pdf_document")
+{% endhighlight %}
+
+So far this is just using Pandoc via R.
+
+However if you include R code in your markdown then RMarkdown will evaulate it unless told not to. So this:
+
+{% highlight r %}
+
+{% endhighlight %}
+
+
+
+
+
+
 
